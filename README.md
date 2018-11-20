@@ -1,2 +1,2 @@
 # RPS
-##Rock Paper Scissors, allowing one or two players.
+### Rock Paper Scissors, allowing one or two players.
