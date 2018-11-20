@@ -12,8 +12,6 @@ def end_(x):
     time.sleep(x)
     sys.exit()
 
-##
-
 p1_wins=0
 p2_wins=0
 ties=0
