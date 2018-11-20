@@ -1,17 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 """
 Rock Paper Scissors that allows 1 person to play against computer, or a second person to also play
 """
-
-
-# In[ ]:
-
-
 import random
 import os
 from distutils.util import strtobool
@@ -138,22 +128,3 @@ while True:
             break
     except ValueError:
         print("Pleasse input yes or no\n")
-
-
-# In[ ]:
-
-
-import os
-
-
-# In[ ]:
-
-
-print(os.name)
-
-
-# In[ ]:
-
-
-
-
