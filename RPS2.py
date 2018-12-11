@@ -1,7 +1,7 @@
 
 """
 Rock Paper Scissors that allows 1 person to play against computer, or a second person to also play
-test
+This version differs slightly from web version due to trinket using python 2 as opposed to 3
 """
 import random
 import os
